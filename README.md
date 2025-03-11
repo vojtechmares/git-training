@@ -3,9 +3,9 @@
   <p align="center" style="font-size: 1.5rem;">Manage your source code like a pro with best version control system!</p>
   <p align="center">
     <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/TRAINING ON-GIT-F05032?style=for-the-badge"></a>
-    <a href="https://www.mares.cz"><img alt="Vojtech Mares" src="https://img.shields.io/badge/TRAINING BY-Vojtech Mares-00ADD8?style=for-the-badge"></a>
+    <a href="https://www.mares.cz"><img alt="Vojtěch Mareš" src="https://img.shields.io/badge/TRAINING BY-Vojtěch Mareš-fd9a00?style=for-the-badge"></a>
   </p>
-  <p align="center"><a href="https://www.mares.cz">Vojtech Mares</a> | <a href="mailto:vojtech@mares.cz">vojtech@mares.cz</a></p>
+  <p align="center"><a href="https://www.mares.cz">Vojtěch Mareš</a> | <a href="mailto:vojtech@mares.cz">vojtech@mares.cz</a></p>
 </p>
 
 ## Install Git
@@ -46,7 +46,7 @@ You can configure just one repo, you can call git config from you repository
 with flag --local. Or edit `.git/config` file.
 
 ```bash
-git config --global user.name "Vojtech Mares"
+git config --global user.name "Vojtěch Mareš"
 git config --global user.email "vojtech@mares.cz"
 ```
 
